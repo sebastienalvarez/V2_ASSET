@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/V2 Rocket Asset/Demo/V2 Launch.unity
+  isLoaded: 1
+  isActive: 1
